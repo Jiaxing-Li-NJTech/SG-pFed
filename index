@@ -1,0 +1,4 @@
+using np.random.shuffle to shuffle data
+IIa,seed = "814"
+IIIa,seed = "1337"
+HGD,seed = "1337"
